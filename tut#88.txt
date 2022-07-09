@@ -1,0 +1,8 @@
+npm body-parser: it is used to save data in database with the help of express when the post request has 
+been made.
+
+##In the end we have used 4 npm modules
+1) express
+2) pug
+3) mongoose
+4) body-parser
